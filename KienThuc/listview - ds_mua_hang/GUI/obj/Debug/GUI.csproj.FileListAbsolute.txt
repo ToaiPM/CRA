@@ -1,0 +1,21 @@
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\bin\Debug\GUI.exe.config
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\bin\Debug\GUI.exe
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\bin\Debug\GUI.pdb
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\obj\Debug\GUI.exe
+C:\Users\MR TOAI\Desktop\ONTAP\GUI\obj\Debug\GUI.pdb
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\MR TOAI\Desktop\listview - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\MR TOAI\Desktop\KienThuc\listview - ds_mua_hang\GUI\bin\Debug\GUI.exe.config
+C:\Users\MR TOAI\Desktop\KienThuc\listview - ds_mua_hang\GUI\obj\Debug\GUI.exe
+C:\Users\MR TOAI\Desktop\KienThuc\listview - ds_mua_hang\GUI\obj\Debug\GUI.pdb

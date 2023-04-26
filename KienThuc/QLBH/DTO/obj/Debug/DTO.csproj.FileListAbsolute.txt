@@ -1,0 +1,5 @@
+C:\Users\MR TOAI\Desktop\QLBH\DTO\bin\Debug\DTO.dll
+C:\Users\MR TOAI\Desktop\QLBH\DTO\bin\Debug\DTO.pdb
+C:\Users\MR TOAI\Desktop\QLBH\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\MR TOAI\Desktop\QLBH\DTO\obj\Debug\DTO.dll
+C:\Users\MR TOAI\Desktop\QLBH\DTO\obj\Debug\DTO.pdb

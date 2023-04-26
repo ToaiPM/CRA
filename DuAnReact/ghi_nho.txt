@@ -1,0 +1,9 @@
+- Luôn được gọi callback sau khi Component Mounted
+
+useEffect(callback)
+- Gọi callback khi Component re-render
+- Gọi callback khi Component thêm Element vào DOM
+useEffect(callback,[])
+- Chỉ gọi lại callback một lần sau khi component Mounted
+useEffect(callback,[deps])
+- callback sẽ được gọi lại sau khi dens thay đổi

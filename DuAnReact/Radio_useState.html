@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./public/js/react.development.js"></script>
+    <script src="./public/js/react-dom.development.js"></script>
+    <script src="./public/js/babel.min.js"></script>
+    <title>React JS</title>
+</head>
+<body>
+    <div id="root"></div>
+     <script type="text/babel">
+        const courses = [
+            {
+                id:1,
+                name:'PHP'
+            },
+            {
+                id:2,
+                name:'JavaScript'
+            },
+            {
+                id:3,
+                name:'C#'
+            },
+            {
+                id:4,
+                name:'Python'
+            },
+        ]
+        function App(){
+            const [checked, setChecked] = React.useState([])
+            const submitData =()=>{
+                console.log('id: ',checked)
+            }
+            const handleCheck =(id)=>{
+                setChecked(prev=>{
+                    const isChecked = checked.includes(id)
+                    if(isChecked){
+                        //unchecked
+                        return checked.filter(item=>item!=id)
+                    }else{
+                        return [...prev, id]
+                    }
+                })
+            }
+            return(
+                <div className="wrapper">
+                    {
+                        courses.map(course => (
+                            <div key={course.id}>
+                                <input
+                                    checked={checked.includes(course.id)}
+                                    type="checkbox"
+                                    onChange={()=>handleCheck(course.id)}
+                                />
+                                {course.name}
+                            </div>
+                        ))
+                    }
+                    <button onClick={submitData}>Ghi lại</button>
+                </div>
+            )
+        }
+        ReactDOM.createRoot(document.getElementById('root')).render(<App/>)
+    </script>
+</body>
+</html>
